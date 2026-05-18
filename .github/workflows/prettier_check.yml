@@ -21,4 +21,4 @@ jobs:
       - name: Run prettier
         run: |-
           npx prettier --check '_data/*/*.json'
-          
+  
